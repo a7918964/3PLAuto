@@ -20,4 +20,4 @@ def __InternalToteInAndToteCollection__(TY11=0, TY12=0, TY14=0):
     time.sleep(3)
 
 
-__InternalToteInAndToteCollection__(2)
+__InternalToteInAndToteCollection__(2, 2, 2)
